@@ -1,5 +1,8 @@
 _repo: The-Servile-State_64882
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64882#The-Servile-State
 gutenberg_issued: '2021-03-20'
 gutenberg_type: Text
 identifiers:
